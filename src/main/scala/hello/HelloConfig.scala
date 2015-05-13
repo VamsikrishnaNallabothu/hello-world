@@ -10,7 +10,7 @@ import org.springframework.stereotype.Controller;
 /**
  * This config class will trigger Spring @annotation scanning and auto configure Spring context.
  *
- * @author vaibhav
+ * @author vamsi
  * @since 1.0
  */
  
